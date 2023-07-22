@@ -2,14 +2,6 @@
 <p align="center">
   <img class="centered-image" src="background.png" alt="Image Description">
 </p>
-<style>
-  .centered-image {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    filter: brightness(50%);
-  }
-</style>
 
 
 
