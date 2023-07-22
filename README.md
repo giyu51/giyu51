@@ -1,9 +1,8 @@
 # Welcome to My GitHub Repository! 👋
 
 <p align="center">
-  <img src="https://images5.alphacoders.com/127/1279076.png" alt="Image Description">
+  <img src="background.png" alt="Image Description">
 </p>
-
 
 
 ## Introduction 📝
