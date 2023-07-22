@@ -1,7 +1,5 @@
 # Welcome to My GitHub Repository! 👋
-<p align="center">
-  <img class="centered-image" src="background.png" alt="Image Description">
-</p>
+
 
 
 
