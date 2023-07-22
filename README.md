@@ -1,5 +1,11 @@
 # Welcome to My GitHub Repository! 👋
 
+<p align="center">
+  <img src="[https://example.com/path/to/your/image.jpg](https://images5.alphacoders.com/127/1279076.png)" alt="Image Description">
+</p>
+
+
+
 ## Introduction 📝
 
 Hello there! I am a passionate 🐍Python developer with a keen interest in the fields of Computer Vision and Deep Learning. This README.md serves as an introduction to my GitHub account, where I share my projects, contributions, and learnings in various areas of technology. 💻
