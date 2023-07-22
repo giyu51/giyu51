@@ -1,7 +1,16 @@
 # Welcome to My GitHub Repository! 👋
 
+<style>
+  .centered-image {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    filter: brightness(50%);
+  }
+</style>
+
 <p align="center">
-  <img src="background.png" alt="Image Description">
+  <img class="centered-image" src="background.png" alt="Image Description">
 </p>
 
 
