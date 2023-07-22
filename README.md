@@ -16,7 +16,7 @@ I am deeply fascinated by the power of technology and its potential to transform
 
 - 💡 **Electronics**: I have a great interest in electronics, and I enjoy tinkering with hardware components to create innovative projects.
 
-- :electron: **Arduino and Raspberry Pi**: I am proficient in working with Arduino and Raspberry Pi, using them as platforms to develop interactive and smart applications.
+- ⚡ **Arduino and Raspberry Pi**: I am proficient in working with Arduino and Raspberry Pi, using them as platforms to develop interactive and smart applications.
 
 - 🥝 **Kivy**: As an experienced developer in the Kivy framework, I also create interactive and cross-platform applications with rich user interfaces.
 
