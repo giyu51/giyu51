@@ -14,7 +14,7 @@ I am deeply fascinated by the power of technology and its potential to transform
 
 - :computer: **Deep Learning**: I have a strong foundation in Deep Learning, where I leverage TensorFlow to design and train sophisticated neural networks, including convolutional neural networks (CNNs), recurrent neural networks (RNNs), and more.
 
-- **Kivy**: As an experienced developer in the Kivy framework, I also create interactive and cross-platform applications with rich user interfaces.
+- 🥝 **Kivy**: As an experienced developer in the Kivy framework, I also create interactive and cross-platform applications with rich user interfaces.
 
 ## Other Skills ⚙️
 
