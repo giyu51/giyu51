@@ -2,7 +2,7 @@
 
 ## Introduction 📝
 
-Hello there! I am a passionate Python developer with a keen interest in the fields of Computer Vision and Deep Learning. This README.md serves as an introduction to my GitHub account, where I share my projects, contributions, and learnings in various areas of technology. 💻
+Hello there! I am a passionate 🐍 Python developer with a keen interest in the fields of Computer Vision and Deep Learning. This README.md serves as an introduction to my GitHub account, where I share my projects, contributions, and learnings in various areas of technology. 💻
 
 ## About Me 🙋‍♂️
 
