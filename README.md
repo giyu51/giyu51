@@ -1,4 +1,4 @@
-<img align="center" src="back.gif>
+![Back](back.gif)
 
 <h1 align="center">💻 Hello World</h1>
 
