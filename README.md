@@ -5,6 +5,7 @@
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-black?style=for-the-badge&logo=Python&logoColor=brightgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23efd83b?style=for-the-badge&logo=JavaScript&logoColor=black)
+![Static Badge](https://img.shields.io/badge/Arduino-%231f8184?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
 
