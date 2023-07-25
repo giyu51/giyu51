@@ -6,6 +6,7 @@
 ![Kivy](https://img.shields.io/badge/Kivy-black?style=for-the-badge&logo=Python&logoColor=brightgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23efd83b?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/Arduino-%231f8184?style=for-the-badge&logo=Arduino&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Raspberry%20Pi-%23be3244?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 
 
