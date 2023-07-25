@@ -1,5 +1,4 @@
-# Welcome to My GitHub Repository! 👋
-
+<h1 align="center">Deep Learning</h1>
 
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=white&labelColor=darkgreen&color=darkgreen)
 ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=opencv&logoColor=skyblue)
