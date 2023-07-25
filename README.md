@@ -1,7 +1,8 @@
 # Welcome to My GitHub Repository! 👋
 
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-black?style=fot-the-badge&logo=Python&logoColor=white&labelColor=darkgreen&color=darkgreen)
+![Static Badge](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=white&labelColor=darkgreen&color=darkgreen)
+
 
 
 
