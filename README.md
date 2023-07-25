@@ -11,7 +11,7 @@
 
 
 <div align="left">
-<a style="text-aling:center" href="https://github.com/giyu51" align="left">
+<a style="text-aling:center" href="https://github.com/giyu51" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyu51&langs_count=10&title_color=0D1117&text_color=ffffff&icon_color=50c878&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=CSS,HTML,Handlebars,ejs" alt="Top Languages" /></a>
 </div>
 
