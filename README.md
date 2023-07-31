@@ -37,7 +37,7 @@ I am deeply fascinated by the power of technology and its potential to transform
 
 - 💡 **Arduino and Raspberry Pi**: I am proficient in working with Arduino and Raspberry Pi, using them as platforms to develop interactive and smart applications.
 
-- 🥝 **Kivy**: As an experienced developer in the Kivy framework, I also create interactive and cross-platform applications with rich user interfaces.
+- 🥝 **Kivy/KivyMD**: As an experienced developer in the Kivy framework, I also create interactive and cross-platform applications with rich user interfaces.
 
 ## Other Skills ⚙️
 
