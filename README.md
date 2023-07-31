@@ -14,7 +14,7 @@
 
 <div align="left">
   <a href="https://github.com/giyu51">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyu51&langs_count=10&title_color=0D1117&text_color=ffffff&icon_color=50c878&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages&hide=CSS,HTML,Handlebars,ejs" alt="Top Languages" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giyu51&langs_count=10&title_color=0D1117&text_color=ffffff&icon_color=50c878&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages&hide=CSS,HTML,Handlebars,ejs" alt="Top Languages" style="font-size: 18px;" />
   </a>
 </div>
 
