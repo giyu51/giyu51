@@ -25,7 +25,7 @@
 
 ## About Me 🙋‍♂️
 
-I am deeply fascinated by the power of technology and its potential to transform the world around us. My primary focus lies in Computer Vision, where I explore the exciting world of image processing, object detection, and image recognition. Additionally, I am enthusiastic about Deep Learning and its applications, using frameworks like TensorFlow to build and train intelligent models.
+I'm really captivated by the incredible possibilities that technology offers and how it can shape our world. I'm particularly drawn to Computer Vision, where I get to dive into cool stuff like image processing, object detection, and image recognition. Besides that, I'm super excited about Deep Learning and love using frameworks like TensorFlow to create and train smart models.
 
 ## Areas of Expertise 💪
 
