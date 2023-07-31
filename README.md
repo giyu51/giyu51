@@ -45,8 +45,8 @@ Aside from my specialization in Computer Vision and Deep Learning, I possess net
 
 ## GitHub Projects 🚀
 
-On my GitHub account, you will find a collection of projects, ranging from small experiments to fully-fledged applications. I am constantly learning and evolving, and I aim to share my knowledge with the community through well-documented and well-structured repositories.
+On my GitHub account, you will find a collection of projects, ranging from small experiments to fully-fledged applications. I am **constantly learning** and **evolving**, and I aim to share my knowledge with the community through **well-documented** and **well-structured** **repositories**.
 
 ## Collaboration 👥
 
-I am open to collaborations and welcome any contributions, suggestions, or feedback on my projects. If you find any of my work interesting or wish to collaborate on a new venture, feel free to reach out to me.
+I am open to collaborations and welcome any **contributions**, **suggestions**, or **feedback** on **my projects**. If you find any of my work interesting or wish to collaborate on a new venture, feel free to reach out to me.
